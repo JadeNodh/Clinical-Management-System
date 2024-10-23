@@ -1,0 +1,16 @@
+Appointment No: 1
+Patient: chatura123
+Doctor Username: anura123
+Doctor Name: Dr.Anura
+Date: 2024-02-26
+Time: 10:00
+Status: Pending
+Status: Accepted
+Appointment No: 2
+Patient: janodh123
+Doctor Username: anura123
+Doctor Name: Dr.Anura
+Date: 2024-02-26
+Time: 11:00
+Status: Pending
+Status: Accepted

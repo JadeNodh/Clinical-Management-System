@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1704810847 source:h:\c++ programs\clinical management system\userauthenticationsystem.cpp
+	<iostream>
+	<conio.h>
+	<algorithm>
+	<functional>
+	"UserAuthentication.h"
+
+1704302639 h:\c++ programs\clinical management system\authentication.h
+	<fstream>
+	<string>
+
+1704616855 source:h:\c++ programs\clinical management system\authentication.h
+
+1704808900 source:h:\c++ programs\clinical management system\userauthentication.h
+	<string>
+	<fstream>
+	<vector>
+
+1707306934 h:\c++ programs\clinical management system\userauthentication.h
+	<string>
+	<iostream>
+	<fstream>
+	<vector>
+	<utility>
+	<conio.h>
+
+1708929011 source:h:\c++ programs\clinical management system\main.cpp
+	"UserAuthentication.h"
+	"UserAuthenticationSystem.cpp"
+	"DoctorsFunctions.h"
+	"DoctorsFunctions.cpp"
+	"PatientsFunctions.h"
+	"PatientsFunctions.cpp"
+	<iostream>
+	<fstream>
+	<vector>
+	<cstdio>
+	<cstdlib>
+	<thread>
+	<chrono>
+
+1708958378 h:\c++ programs\clinical management system\userauthenticationsystem.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<vector>
+	<algorithm>
+	<functional>
+	"UserAuthentication.h"
+	"DoctorsFunctions.h"
+	"PatientsFunctions.h"
+	<sstream>
+
+1708436228 h:\c++ programs\clinical management system\patientsfunctions.h
+	<iostream>
+	<fstream>
+	<vector>
+	"UserAuthentication.h"
+	<cstdio>
+
+1707500792 h:\c++ programs\clinical management system\doctorsfunctions.h
+	<string>
+	<fstream>
+	<vector>
+
+1705508945 source:h:\c++ programs\clinical management system\main2.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<conio.h>
+	<algorithm>
+	<functional>
+
+1708866343 h:\c++ programs\clinical management system\patientsfunctions.cpp
+	"PatientsFunctions.h"
+	"UserAuthentication.h"
+	"DoctorsFunctions.h"
+	<fstream>
+	<cstdio>
+	<cstring>
+	<sstream>
+	<string>
+
+1708929547 h:\c++ programs\clinical management system\doctorsfunctions.cpp
+	"DoctorsFunctions.h"
+	"PatientsFunctions.h"
+	"UserAuthentication.h"
+	<string>
+	<iostream>
+	<sstream>
+	<unordered_map>
+
